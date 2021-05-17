@@ -8,7 +8,7 @@ Radio in [AsmSafone](https://t.me/AsmSafone) Channel.
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AsmSafone/RadioPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/RadioPlayer)
 
 - Generate pyrogram session string by [String Session Generator Bot](http://t.me/genStr_robot) 
 or running [genStr.py](genStr.py) by yourself on heroku run console.
