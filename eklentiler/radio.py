@@ -42,7 +42,7 @@ async def start(client, message: Message):
 
     if not message.reply_to_message or len(message.command) < 2:
         await message.reply_text(
-            'Replay Command To List of Stations or Pass a Station ID'
+            'Repley Command To List of Stations or Pass a Station ID'
         )
         return
 
